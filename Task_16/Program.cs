@@ -12,5 +12,5 @@ int a = Convert.ToInt32(Console.ReadLine);
 Console.WriteLine("Введите число" );
 int b = Convert.ToInt32(Console.ReadLine);
 
-if ( a* a == b || b*bb==a) Console.WriteLine("Да")ж
+if ( a* a == b || b*b==a) Console.WriteLine("Да");
 else Console.WriteLine("Нет");

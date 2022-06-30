@@ -1,0 +1,15 @@
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\bin\Debug\net6.0\Task_09.exe
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\bin\Debug\net6.0\Task_09.deps.json
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\bin\Debug\net6.0\Task_09.runtimeconfig.json
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\bin\Debug\net6.0\Task_09.dll
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\bin\Debug\net6.0\Task_09.pdb
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.csproj.AssemblyReference.cache
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfoInputs.cache
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfo.cs
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.csproj.CoreCompileInputs.cache
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.dll
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\refint\Task_09.dll
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.pdb
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\Task_09.genruntimeconfig.cache
+C:\Users\ilali\Documents\Учеба\Semenar1_C#\Semenar1_C-\Task_09\obj\Debug\net6.0\ref\Task_09.dll

@@ -4,10 +4,7 @@
 // 14 -> нет
 // 46 -> нет
 // 161 -> да
-int a = new Random().Next(49, 50);
+int a = new Random().Next();
 Console.WriteLine(a);
-if (a % 7 == 0 && a % 23 == 0)
-{
-	Console.WriteLine("Да");
-}
-Console.WriteLine("Нет");
+if (a % 7 == 0 && a % 23 == 0) Console.WriteLine("Да");
+else Console.WriteLine("Нет");
