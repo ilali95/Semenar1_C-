@@ -19,5 +19,5 @@ Console.Write("Y: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
 
 double sum = ((x1 - x2)*(y1-y1))+((y2-y1)*(y2-y1));
-double sum = (Math.Round (Math.Sqrt(sum), 2));
-Console.WriteLine(sum);
+double sum1 = (Math.Round (Math.Sqrt(sum), 2));
+Console.WriteLine(sum1);

@@ -8,13 +8,14 @@ int ch = Convert.ToInt32(Console.ReadLine());
 string Quarter(int che);
 {
 	// string = che;
-	switch (che)
+	switch (int che)
 	{
-		case 1:  "x > 0 && y > 0"; break;
-		case 2:  "x < 0 && y > 0"; break;
-		case 3:  "x < 0 && y < 0"; break;
-		case 4:  "x > 0 && y < 0"; break;
-		default: "Введены некоректные координаты"; break;
+		case 1:  x > 0 && y > 0 break;
+		case 2:  x < 0 && y > 0 break;
+		case 3:  x < 0 && y < 0 break;
+		case 4:  x > 0 && y < 0 break;
+		default: Введены некоректные координаты;
+		break;
 	}
 }
 string result = Quarter(che);
