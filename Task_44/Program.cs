@@ -13,6 +13,7 @@ int ToBin(int a)
 	int d = 0;
 	int b = 1;
 	int suma = 0;
+	Console.Write($"{d} {b}");
 	for (int i = 0; i < nom; i++)
 	{
 		suma = d + b;
