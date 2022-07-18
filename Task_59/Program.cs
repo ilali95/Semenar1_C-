@@ -82,4 +82,6 @@ void PrintMatrixNoMin(int[,] matrix, int[] matrixMin)
 
 int[,] arrayResult = CreateMatrixRndInt(3, 4, 1, 20);
 PrintMatrix(arrayResult);
-PrintMatrix(PrintMatrixNoMin);
+Console.WriteLine();
+int[] matrixMinPlace = MatrixMinPlace(arrayResult);
+PrintMatrixNoMin(arrayResult, matrixMinPlace);
